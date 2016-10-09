@@ -3,3 +3,4 @@
 
 ## 使った言語
 - Java
+- Python
